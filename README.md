@@ -11,8 +11,11 @@ And I am the person, one who ensure the quality of the product throughout the So
 I'm a Test Automation Engineer 👨‍🔬 from Budapest, Hungary 🇭🇺
 
 🔭 I'm working as a Senior Software Test Automation Engieer and writing script to validate frontend and backend applications
+
 🌱 Exploring Data Structure and Algorithm (DSA) Concepts, Cloud Computing (AWS), Performance Engineering (K6)
+
 ⚡  In my idle hours I'm practicing or writing some code relavent code for automation and pushed to GitHub
+
 📫 How to reach me: https://www.linkedin.com/in/karthikeyan-test-automation-specialist/ 
 
 <!--
