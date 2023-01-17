@@ -21,7 +21,7 @@ I'm a Test Automation Engineer 👨‍🔬 from Budapest, Hungary 🇭🇺
 ---
 ### 🛠️ Languages and Tools:
 
-<img src="[img_girl.jpg](https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg)" alt="java" width="500" height="600">
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="500" height="600">
  ![](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)
 
 <!--
