@@ -18,6 +18,11 @@ I'm a Test Automation Engineer 👨‍🔬 from Budapest, Hungary 🇭🇺
 
 📫 How to reach me: https://www.linkedin.com/in/karthikeyan-test-automation-specialist/ 
 
+---
+### 🛠️ Languages and Tools:
+
+[](https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg) [](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)
+
 <!--
 **karthis-testlab/karthis-testlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
