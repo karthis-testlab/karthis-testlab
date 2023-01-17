@@ -21,7 +21,8 @@ I'm a Test Automation Engineer 👨‍🔬 from Budapest, Hungary 🇭🇺
 ---
 ### 🛠️ Languages and Tools:
 
-![](https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg) ![](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)
+<img src="[img_girl.jpg](https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg)" alt="java" width="500" height="600">
+ ![](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)
 
 <!--
 **karthis-testlab/karthis-testlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
