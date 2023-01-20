@@ -14,7 +14,8 @@ I'm a Test Automation Engineer 👨‍🔬 from Budapest, Hungary 🇭🇺
 
 🌱 Exploring Data Structure and Algorithm (DSA) Concepts, Cloud Computing (AWS), Performance Engineering (K6)
 
-⚡  In my idle hours I'm practicing or writing some code relavent code for automation and pushed to GitHub and learning new technologies or tool which helps    to improve my career growth.
+⚡  In my idle hours I'm practicing or writing some code relavent code for automation and pushed to GitHub and learning new technologies 
+   or tool which helps to improve my career growth.
 
 📫 How to reach me: https://www.linkedin.com/in/karthikeyan-test-automation-specialist/ 
 
