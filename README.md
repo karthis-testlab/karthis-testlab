@@ -12,7 +12,7 @@ I'm a Test Automation Engineer 👨‍🔬 from Budapest, Hungary 🇭🇺
 
 🔭 I'm working as a Senior Software Test Automation Engieer and writing script to validate frontend and backend applications
 
-🌱 Exploring Data Structure and Algorithm (DSA) Concepts, Cloud Computing (AWS), Performance Engineering (K6)
+🌱 Exploring Data Structure and Algorithm (DSA) Concepts, Cloud Computing (AWS), Performance Engineering (K6, Gatling)
 
 ⚡  In my idle hours I'm learning new technologies or tool which helps to improve my career growth. (Learning is my habit)
 
