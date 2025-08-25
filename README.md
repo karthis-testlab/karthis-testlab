@@ -8,7 +8,7 @@ And I am the person, who ensures the quality of the product throughout the Softw
 
 ### 👨‍💻 About Me:
   
-I'm a Test Architect 👨‍🔬 from Rajapalayam, Tamil Nadu, India IND
+I'm a Test Architect 👨‍🔬 from Rajapalayam, Tamil Nadu, India IN
 
 🔭 I'm working as a Test Architect and writing scripts to validate frontend and backend applications    
 
