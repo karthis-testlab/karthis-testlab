@@ -8,9 +8,9 @@ And I am the person, who ensures the quality of the product throughout the Softw
 
 ### 👨‍💻 About Me:
   
-I'm a Senior Test Automation Engineer 👨‍🔬 from Budapest, Hungary 🇭🇺
+I'm a Test Architect 👨‍🔬 from Rajapalayam, Tamil Nadu, India IND
 
-🔭 I'm working as a Senior Software Test Automation Engineer and writing scripts to validate frontend and backend applications    
+🔭 I'm working as a Test Architect and writing scripts to validate frontend and backend applications    
 
 🌱 Exploring Data Structure and Algorithm (DSA) Concepts, Cloud Computing (AWS), Performance Engineering (K6, Gatling)
 
